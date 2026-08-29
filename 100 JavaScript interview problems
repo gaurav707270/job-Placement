@@ -1,0 +1,231 @@
+# 🚀 JavaScript Interview Problems
+
+A collection of **100 JavaScript coding problems** designed to improve problem-solving skills and prepare for **JavaScript, Frontend, and MERN Stack Developer interviews**.
+
+## 🎯 Purpose
+
+This repository is created for practicing:
+
+* JavaScript fundamentals
+* Arrays & Strings
+* Objects
+* Functions
+* ES6+ concepts
+* Async JavaScript
+* Promises
+* Problem solving
+* Data Structures & Algorithms
+* Interview preparation
+
+---
+
+## 📚 Problems
+
+### 🟢 01 — JavaScript Basics
+
+| #  | Problem                     | Difficulty |
+| -- | --------------------------- | ---------- |
+| 01 | Reverse a String            | Easy       |
+| 02 | Check Palindrome            | Easy       |
+| 03 | Find Largest Number         | Easy       |
+| 04 | Find Smallest Number        | Easy       |
+| 05 | Find Second Largest Number  | Easy       |
+| 06 | Find Second Smallest Number | Easy       |
+| 07 | Sum of Array Elements       | Easy       |
+| 08 | Calculate Average           | Easy       |
+| 09 | Count Even & Odd Numbers    | Easy       |
+| 10 | Check Prime Number          | Easy       |
+| 11 | Print Prime Numbers         | Easy       |
+| 12 | Factorial of a Number       | Easy       |
+| 13 | Fibonacci Series            | Easy       |
+| 14 | Sum of Digits               | Easy       |
+| 15 | Reverse a Number            | Easy       |
+| 16 | Armstrong Number            | Easy       |
+| 17 | Perfect Number              | Easy       |
+| 18 | GCD of Two Numbers          | Easy       |
+| 19 | LCM of Two Numbers          | Easy       |
+| 20 | Count Digits                | Easy       |
+| 21 | Character Frequency         | Easy       |
+| 22 | Count Vowels & Consonants   | Easy       |
+| 23 | Remove Spaces               | Easy       |
+| 24 | Capitalize Words            | Easy       |
+| 25 | Longest Word                | Easy       |
+
+---
+
+### 🟡 02 — Arrays
+
+| #  | Problem                      | Difficulty |
+| -- | ---------------------------- | ---------- |
+| 26 | Remove Duplicates            | Easy       |
+| 27 | Find Duplicates              | Easy       |
+| 28 | Find Missing Number          | Easy       |
+| 29 | Find Missing Numbers         | Medium     |
+| 30 | Array Intersection           | Easy       |
+| 31 | Array Union                  | Easy       |
+| 32 | Array Difference             | Easy       |
+| 33 | Move Zeros to End            | Easy       |
+| 34 | Move Negatives to Beginning  | Medium     |
+| 35 | Separate Even & Odd          | Easy       |
+| 36 | Sort Without `.sort()`       | Medium     |
+| 37 | Two Sum                      | Easy       |
+| 38 | Find All Pairs               | Medium     |
+| 39 | Three Sum                    | Medium     |
+| 40 | Maximum Sum of Two           | Easy       |
+| 41 | Maximum Sum of Three         | Easy       |
+| 42 | Maximum Subarray Sum         | Medium     |
+| 43 | Longest Consecutive Sequence | Medium     |
+| 44 | First Non-Repeating Element  | Medium     |
+| 45 | First Repeating Element      | Easy       |
+| 46 | Majority Element             | Medium     |
+| 47 | Left Rotate Array            | Medium     |
+| 48 | Right Rotate Array           | Medium     |
+| 49 | Merge Sorted Arrays          | Easy       |
+| 50 | Find Median                  | Medium     |
+
+---
+
+### 🟠 03 — Strings
+
+| #  | Problem                         | Difficulty |
+| -- | ------------------------------- | ---------- |
+| 51 | Reverse Each Word               | Easy       |
+| 52 | Reverse Word Order              | Easy       |
+| 53 | Check Anagram                   | Easy       |
+| 54 | Find Anagram Pairs              | Medium     |
+| 55 | First Non-Repeating Character   | Easy       |
+| 56 | First Repeating Character       | Easy       |
+| 57 | Longest Unique Substring        | Hard       |
+| 58 | Longest Palindromic Substring   | Hard       |
+| 59 | Count Substring Occurrences     | Medium     |
+| 60 | Remove Duplicate Characters     | Easy       |
+| 61 | Highest Frequency Character     | Easy       |
+| 62 | Lowest Frequency Character      | Easy       |
+| 63 | String Rotation                 | Medium     |
+| 64 | String Compression              | Medium     |
+| 65 | Expand Compressed String        | Medium     |
+| 66 | Balanced Brackets               | Medium     |
+| 67 | Longest Common Prefix           | Easy       |
+| 68 | Longest Common Suffix           | Easy       |
+| 69 | Unique Characters               | Easy       |
+| 70 | Character Frequency Replacement | Medium     |
+
+---
+
+### 🔵 04 — Objects
+
+| #  | Problem                       | Difficulty |
+| -- | ----------------------------- | ---------- |
+| 71 | Deep Clone Object             | Hard       |
+| 72 | Deep Object Equality          | Hard       |
+| 73 | Object to Key-Value Array     | Easy       |
+| 74 | Key-Value Array to Object     | Easy       |
+| 75 | Find Duplicate Objects        | Medium     |
+| 76 | Group Objects by Property     | Medium     |
+| 77 | Sort Objects by Age           | Easy       |
+| 78 | Sort by Multiple Properties   | Medium     |
+| 79 | Highest Salary Employee       | Easy       |
+| 80 | Calculate Total Salary        | Easy       |
+| 81 | Filter by Salary              | Easy       |
+| 82 | Remove Duplicate Objects      | Medium     |
+| 83 | Flatten Nested Object         | Hard       |
+| 84 | Convert Flat Object to Nested | Hard       |
+| 85 | Implement `Object.entries()`  | Medium     |
+
+---
+
+### 🔴 05 — Advanced JavaScript
+
+| #   | Problem                   | Difficulty |
+| --- | ------------------------- | ---------- |
+| 86  | Implement `map()`         | Medium     |
+| 87  | Implement `filter()`      | Medium     |
+| 88  | Implement `reduce()`      | Medium     |
+| 89  | Implement `find()`        | Easy       |
+| 90  | Implement `forEach()`     | Easy       |
+| 91  | Implement `some()`        | Easy       |
+| 92  | Implement `every()`       | Easy       |
+| 93  | Implement Debounce        | Medium     |
+| 94  | Implement Throttle        | Medium     |
+| 95  | Implement `once()`        | Medium     |
+| 96  | Implement Memoization     | Medium     |
+| 97  | Implement Currying        | Hard       |
+| 98  | Flatten Nested Array      | Medium     |
+| 99  | Implement `Promise.all()` | Hard       |
+| 100 | Implement Async Retry     | Hard       |
+
+---
+
+## 🛠️ How to Run
+
+Make sure Node.js is installed.
+
+```bash
+node 01-reverse-string.js
+```
+
+Example:
+
+```bash
+cd 01-basics
+node 01-reverse-string.js
+```
+
+---
+
+## 📈 Progress
+
+* [ ] 01–25 JavaScript Basics
+* [ ] 26–50 Arrays
+* [ ] 51–70 Strings
+* [ ] 71–85 Objects
+* [ ] 86–100 Advanced JavaScript
+
+---
+
+## 💻 Technologies
+
+* JavaScript
+* ES6+
+* Node.js
+* Data Structures & Algorithms
+* Problem Solving
+
+---
+
+## 🎯 Interview Preparation
+
+These problems are useful for preparing for:
+
+* JavaScript Developer Interviews
+* Frontend Developer Interviews
+* React Developer Interviews
+* Node.js Developer Interviews
+* MERN Stack Developer Interviews
+* Full Stack Developer Interviews
+
+---
+
+## ⭐ Goal
+
+> **Solve → Understand → Optimize → Explain**
+
+For every problem, try to understand:
+
+1. Problem statement
+2. Approach
+3. Solution
+4. Time complexity
+5. Space complexity
+6. Edge cases
+7. Alternative approaches
+
+---
+
+## 👨‍💻 Author
+
+**Gaurav Kharate**
+
+MERN Stack Developer | Full Stack Developer
+
+⭐ If this repository helps you in your interview preparation, consider giving it a star!
