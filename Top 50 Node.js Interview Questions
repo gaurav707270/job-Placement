@@ -1,0 +1,57 @@
+Node.js Basics
+What is Node.js?
+Why is Node.js fast?
+Is Node.js single-threaded?
+What is the V8 engine?
+What is the event loop?
+What is non-blocking I/O?
+Synchronous vs asynchronous programming?
+What is libuv?
+How does Node.js handle multiple requests?
+Node.js vs JavaScript?
+NPM & Modules
+What is npm?
+What is package.json?
+package.json vs package-lock.json?
+What is node_modules?
+What is npx?
+CommonJS vs ES Modules?
+require() vs import?
+module.exports vs exports?
+Async JavaScript
+What is a callback?
+What is callback hell?
+What is a Promise?
+Promise states?
+Promise.all() vs Promise.allSettled()?
+What is async/await?
+How do you handle errors with async/await?
+Callback vs Promise vs async/await?
+Express.js
+What is Express.js?
+What is middleware?
+What is next()?
+app.use() vs app.get()?
+What is routing?
+What is express.Router()?
+How do you handle errors in Express?
+How do you create a REST API?
+REST API
+What is REST API?
+GET vs POST vs PUT vs PATCH vs DELETE?
+PUT vs PATCH?
+Route params vs query params?
+What are HTTP status codes?
+401 vs 403?
+400 vs 404 vs 500?
+MongoDB + Mongoose
+What is Mongoose?
+Schema vs Model?
+find() vs findOne()?
+What is populate()?
+How do you connect MongoDB with Node.js?
+Authentication & Security
+Authentication vs authorization?
+What is JWT and how does it work?
+What is bcrypt and why is it used?
+What is CORS and how do you fix CORS errors?
