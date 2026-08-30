@@ -1,0 +1,57 @@
+HTML — 1–8
+What is HTML and what is its purpose?
+What is semantic HTML? Why is it important?
+What is the difference between id and class?
+What is the difference between <div> and <span>?
+What are HTML forms and how do they work?
+What is the difference between GET and POST in forms?
+What are HTML5 semantic tags?
+What is web accessibility and how do you improve it?
+
+CSS — 9–17
+What is the CSS Box Model?
+What is the difference between margin and padding?
+What is the difference between block, inline, and inline-block?
+What is Flexbox?
+What is CSS Grid?
+Flexbox vs Grid — when would you use each?
+Explain position: relative, absolute, fixed, and sticky.
+What is z-index?
+How do you make a website responsive?
+
+JavaScript — ⭐ 18–35
+What is JavaScript?
+Difference between var, let, and const?
+Difference between == and ===?
+What are primitive and non-primitive data types?
+What is hoisting?
+What is scope in JavaScript?
+What is a closure?
+What is the this keyword?
+Arrow function vs normal function?
+What are callback functions?
+What is a Promise?
+What is async/await?
+What is the JavaScript event loop?
+Difference between map(), filter(), and reduce()?
+Difference between forEach() and map()?
+What is destructuring?
+What are spread and rest operators?
+What is event bubbling and event delegation?
+
+React.js — ⭐⭐⭐ 36–50
+What is React and why is it used?
+What is a React component?
+What are props?
+What is state?
+Props vs state — what is the difference?
+What is useState()?
+What is useEffect()?
+What is the dependency array in useEffect()?
+What is useRef() and when would you use it?
+What is conditional rendering in React?
+Why are key props required when rendering lists?
+What is a controlled component?
+What is lifting state up?
+What is React Router and how does it work?
+What is Redux Toolkit and why would you use it with React?
